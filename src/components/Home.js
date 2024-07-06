@@ -13,8 +13,8 @@ import { useState } from 'react';
 function Home() {
 
     const hello = <p className='hello'>hello, i'm</p>
-    const myName = <h2>mahmoud nagdy</h2>
-    const jobDisc = <p className='job-disc'>frontend & embedded developer</p>
+    const myName = <h2>Vikas Dhavande</h2>
+    const jobDisc = <p className='job-disc'>Embedded developer</p>
 
     const [arrowShadow, setArrowShadow] = useState(false);
 
@@ -29,7 +29,7 @@ function Home() {
 
     return (
         <section className="home-container">
-            <Image src={personalImg} alt="Mahmoud Nagdy" />
+            <Image src={personalImg} alt="Vikas Dhavande" />
 
             <div className='personal-container'>
                 {hello}
