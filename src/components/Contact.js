@@ -17,12 +17,12 @@ function Contact() {
 
             <div className='contact-links'>
 
-                <a target='_blank' className='gmail-container' title='Gmail' href='mailto:mahmoudnagdy65@gmail.com'>
+                <a target='_blank' className='gmail-container' title='Gmail' href='mailto:vikasvikki2000@gmail.com'>
                     <Image src={gmail} alt='Gmail' />
-                    mahmoudnagdy65@gmail.com
+                    vikasvikki2000@gmail.com
                 </a>
 
-                <a target='_blank' className='linkedin-container' title='Gmail' href='https://www.linkedin.com/in/mahmoudnagdy/'>
+                <a target='_blank' className='linkedin-container' title='Gmail' href='https://www.linkedin.com/in/vikas-dhavande/'>
                     <Image src={linkedin} alt='Linkedin' />
                     linkedin
                 </a>
