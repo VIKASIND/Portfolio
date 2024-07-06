@@ -21,30 +21,30 @@ function Footer() {
 
             <div className='personal-links'>
 
-                <a title='Linkedin' target='_blank' href='https://www.linkedin.com/in/mahmoudnagdy/'>
+                <a title='Linkedin' target='_blank' href='https://www.linkedin.com/in/vikas-dhavande/'>
                     <FaLinkedinIn />
                 </a>
 
-                <a title='Github' target='_blank' href='https://github.com/MahmoudNagdy?tab=repositories'>
+                <a title='Github' target='_blank' href='https://github.com/VIKASIND/VIKASIND'>
                     <BsGithub />
                 </a>
 
-                <a title='Facebook' target='_blank' href='https://www.facebook.com/mahmoudnagdy22'>
+                <a title='Facebook' target='_blank' href='https://www.instagram.com/vicky.offline'>
                     <FaFacebookF />
                 </a>
 
-                <a title='Instgram' target='_blank' href='https://www.instagram.com/mahmoud.nagdyy/'>
+                <a title='Instgram' target='_blank' href='https://www.instagram.com/vicky.offline/'>
                     <FaInstagram />
                 </a>
 
-                <a title='Whatsapp' target='_blank' href='https://wa.link/hkgo15'>
+                <a title='Whatsapp' target='_blank' href='https://wa.me/+919731999323'>
                     <FaWhatsapp />
                 </a>
 
 
             </div>
 
-            <p>Deleoped and powered by Mahmoud Nagdy</p>
+            <p>Deleoped and powered by Vikas </p>
         </footer>
     );
 }
